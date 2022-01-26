@@ -1,0 +1,13 @@
+class TG{
+constructor(){
+
+
+}
+display(){
+
+    
+}
+}
+
+
+
